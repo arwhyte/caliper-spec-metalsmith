@@ -1,0 +1,26 @@
+{
+  "name": "caliper-spec-metalsmith",
+  "version": "1.0.0",
+  "description": "Metalsmith testbed",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arwhyte/caliper-spec-metalsmith.git"
+  },
+  "keywords": [
+    "caliper",
+    "metalsmith"
+  ],
+  "author": "Anthony Whyte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arwhyte/caliper-spec-metalsmith/issues"
+  },
+  "homepage": "https://github.com/arwhyte/caliper-spec-metalsmith#readme",
+  "dependencies": {
+    "metalsmith-markdown": "^0.2.1"
+  }
+}
